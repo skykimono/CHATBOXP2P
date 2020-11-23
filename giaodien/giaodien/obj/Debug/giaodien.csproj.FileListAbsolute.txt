@@ -1,0 +1,25 @@
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\giaodien.exe.config
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\giaodien.exe
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\giaodien.pdb
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.Welcome.resources
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.exe
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.pdb
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.csproj.CopyComplete
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.Join.resources
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\FlatButton.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JDragControl.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JGradient Panel.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JImageButton.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JMaterialTextbox.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JMetroTextBox.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JTextBox.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\JTextBox2.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\source\repos\giaodien\giaodien\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.Hosting.resources
+C:\Users\Admin\source\repos\giaodien\giaodien\obj\Debug\giaodien.Joining.resources
